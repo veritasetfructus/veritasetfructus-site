@@ -1,23 +1,33 @@
 # Veritas et Fructus Website
 
-Minimal static landing page for veritasetfructus.org.
+A minimal, peaceful, modern static landing page for `veritasetfructus.org`.
+
+## Design language
+
+- Warm white / parchment background
+- Quiet serif headings
+- Clean sans-serif body text
+- Muted gold, green, and blue-grey accents
+- No stock imagery
+- Lots of whitespace
+- Calm, trustworthy, Christian, thoughtful
 
 ## Files
 
 - `index.html`
 - `styles.css`
+- `favicon.svg`
 
-## Suggested deployment
+## Deployment
 
-Use GitHub + Cloudflare Pages.
+Deploy through GitHub + Cloudflare Pages.
 
-Project name suggestion: `veritasetfructus-site`
+Suggested build settings:
 
-Build settings:
 - Framework preset: None
 - Build command: leave blank
-- Build output directory: `/` or blank, depending on Cloudflare UI
+- Build output directory: `/`
 
-## Notes
+## Current status
 
-This is version 1: minimal, peaceful, modern, and easy to revise.
+Version 2: refined landing page. The site is intentionally simple while the project is being established.
